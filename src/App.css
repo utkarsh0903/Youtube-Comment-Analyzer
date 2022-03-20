@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  /* background-image: url("../public/bg.jpg"); */
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+}
+
+.app h1 {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  text-align: center;
+  font-size: 5em;
+  display: flex;
+  margin-left: 60px;
+}
+
+.image_icon {
+  height: 70px;
+  margin: 59px 20px 59px -127px;
+  border-radius: 15px;
+}
+
+.search_bar {
+  margin-top: 2em;
+  margin-left: 1em;
+  text-align: center;
+  font-size: 20px;
+}
+
+.search_bar input{
+  border-radius: 5px;
+}
+.search_bar button {
+  margin-left: 0.5em;
+  background-color: rgb(170, 180, 180);
+  border-radius: 8px;
+}
+
+.sentiment button{
+margin: 10px 0px;
+}
