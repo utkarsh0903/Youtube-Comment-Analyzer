@@ -86,5 +86,7 @@ You can check sentiment by clicking on button "Show", it will display how many c
 ![image](https://user-images.githubusercontent.com/81482801/159175125-e2a83b99-dcae-4b84-99e5-fc334564480a.png)
 
 Green - Positive
+
 Red - Negative
+
 Orange - Neutral
